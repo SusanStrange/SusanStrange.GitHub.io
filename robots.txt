@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://SusanStrange.github.io/BACKEND-SusanStrangeArchive/sitemap.xml
