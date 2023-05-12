@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susan Strange Archive on </title>
+    <link>https://doks-child-theme.netlify.app/</link>
+    <description>Recent content in Susan Strange Archive on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2022-2023 Jordon Dumenil</copyright>
+    <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://doks-child-theme.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://doks-child-theme.netlify.app/about-us/</link>
+      <pubDate>Tue, 06 Oct 2020 08:50:29 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/about-us/</guid>
+      <description>Details about the team go here
+Content on this page is updated from content&amp;gt;en&amp;gt;about-us&amp;gt;_index.html
+The last line in the _index.html file will be seperated from the rest of the text by a line</description>
+    </item>
+    
+    <item>
+      <title>Susan Strange Archive</title>
+      <link>https://doks-child-theme.netlify.app/archive/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/archive/</guid>
+      <description>This page is where cards are built for each object in the archive. Text like this and top-of-page content can be edited at content&amp;gt;en&amp;gt;archive&amp;gt;_index.html
+New objects are added by creating a new folder in content&amp;gt;en&amp;gt;archive and adding in an index.html file based on the template (refer to existing pages for template)
+The image displayed on each card is drawn from the assets&amp;gt;images folder and is designated in the &amp;ldquo;Image: []&amp;rdquo; parameter in the index.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://doks-child-theme.netlify.app/contact/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/contact/</guid>
+      <description>This where contact details go
+This page is updated from content&amp;gt;en&amp;gt;contact&amp;gt;index.html</description>
+    </item>
+    
+  </channel>
+</rss>

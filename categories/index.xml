@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://doks-child-theme.netlify.app/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:16 -0500</lastBuildDate><atom:link href="https://doks-child-theme.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Article</title>
+      <link>https://doks-child-theme.netlify.app/categories/journal-article/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal: Global Society</title>
+      <link>https://doks-child-theme.netlify.app/categories/journal-global-society/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/journal-global-society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher: Taylor &amp; Francis</title>
+      <link>https://doks-child-theme.netlify.app/categories/publisher-taylor-francis/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/publisher-taylor-francis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal: International Affairs</title>
+      <link>https://doks-child-theme.netlify.app/categories/journal-international-affairs/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/journal-international-affairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher: Chatham House</title>
+      <link>https://doks-child-theme.netlify.app/categories/publisher-chatham-house/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/publisher-chatham-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal: PeaceFinder Series</title>
+      <link>https://doks-child-theme.netlify.app/categories/journal-peacefinder-series/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:30 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/journal-peacefinder-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher: United Nations Association</title>
+      <link>https://doks-child-theme.netlify.app/categories/publisher-united-nations-association/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:30 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/categories/publisher-united-nations-association/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
