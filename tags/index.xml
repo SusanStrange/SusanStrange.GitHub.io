@@ -1,71 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Categories on </title>
     <link>https://doks-child-theme.netlify.app/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Dec 1969 19:33:16 -0500</lastBuildDate><atom:link href="https://doks-child-theme.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>International Political Economy</title>
-      <link>https://doks-child-theme.netlify.app/tags/international-political-economy/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
-      
-      <guid>https://doks-child-theme.netlify.app/tags/international-political-economy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge</title>
-      <link>https://doks-child-theme.netlify.app/tags/knowledge/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
-      
-      <guid>https://doks-child-theme.netlify.app/tags/knowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural Power Theory</title>
-      <link>https://doks-child-theme.netlify.app/tags/structural-power-theory/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:16 -0500</pubDate>
-      
-      <guid>https://doks-child-theme.netlify.app/tags/structural-power-theory/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 06 Oct 2020 08:50:29 +0000</lastBuildDate><atom:link href="https://doks-child-theme.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economy</title>
       <link>https://doks-child-theme.netlify.app/tags/economy/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
       <guid>https://doks-child-theme.netlify.app/tags/economy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internaional Relations</title>
-      <link>https://doks-child-theme.netlify.app/tags/internaional-relations/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      <title>Structures</title>
+      <link>https://doks-child-theme.netlify.app/tags/structures/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/tags/internaional-relations/</guid>
+      <guid>https://doks-child-theme.netlify.app/tags/structures/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Loaded Dice</title>
-      <link>https://doks-child-theme.netlify.app/tags/loaded-dice/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      <title>International Political Economy</title>
+      <link>https://doks-child-theme.netlify.app/tags/international-political-economy/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:19 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/tags/loaded-dice/</guid>
+      <guid>https://doks-child-theme.netlify.app/tags/international-political-economy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Prebisch Thesis</title>
-      <link>https://doks-child-theme.netlify.app/tags/prebisch-thesis/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      <title>International Relations</title>
+      <link>https://doks-child-theme.netlify.app/tags/international-relations/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:19 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/tags/prebisch-thesis/</guid>
+      <guid>https://doks-child-theme.netlify.app/tags/international-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>West Failure System</title>
+      <link>https://doks-child-theme.netlify.app/tags/west-failure-system/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:19 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/west-failure-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://doks-child-theme.netlify.app/tags/europe/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:18 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalization</title>
+      <link>https://doks-child-theme.netlify.app/tags/globalization/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:18 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/globalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multinational</title>
+      <link>https://doks-child-theme.netlify.app/tags/multinational/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:18 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/multinational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Policy</title>
+      <link>https://doks-child-theme.netlify.app/tags/public-policy/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:18 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South America</title>
+      <link>https://doks-child-theme.netlify.app/tags/south-america/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:18 -0500</pubDate>
+      
+      <guid>https://doks-child-theme.netlify.app/tags/south-america/</guid>
       <description></description>
     </item>
     
