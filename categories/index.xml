@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://doks-child-theme.netlify.app/categories/</link>
+    <link>https://susanstrange.github.io/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Dec 1969 19:33:39 -0500</lastBuildDate><atom:link href="https://doks-child-theme.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:43 -0500</lastBuildDate><atom:link href="https://susanstrange.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo Paper</title>
+      <link>https://susanstrange.github.io/categories/demo-paper/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/categories/demo-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source1</title>
+      <link>https://susanstrange.github.io/categories/source1/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/categories/source1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Edited Volume</title>
-      <link>https://doks-child-theme.netlify.app/categories/edited-volume/</link>
+      <link>https://susanstrange.github.io/categories/edited-volume/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/edited-volume/</guid>
+      <guid>https://susanstrange.github.io/categories/edited-volume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal: International Theory</title>
-      <link>https://doks-child-theme.netlify.app/categories/journal-international-theory/</link>
+      <link>https://susanstrange.github.io/categories/journal-international-theory/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/journal-international-theory/</guid>
+      <guid>https://susanstrange.github.io/categories/journal-international-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal: Journal of Political Power</title>
-      <link>https://doks-child-theme.netlify.app/categories/journal-journal-of-political-power/</link>
+      <link>https://susanstrange.github.io/categories/journal-journal-of-political-power/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/journal-journal-of-political-power/</guid>
+      <guid>https://susanstrange.github.io/categories/journal-journal-of-political-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal: Sociological Research Online</title>
-      <link>https://doks-child-theme.netlify.app/categories/journal-sociological-research-online/</link>
+      <link>https://susanstrange.github.io/categories/journal-sociological-research-online/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/journal-sociological-research-online/</guid>
+      <guid>https://susanstrange.github.io/categories/journal-sociological-research-online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher: Cambridge University Press</title>
-      <link>https://doks-child-theme.netlify.app/categories/publisher-cambridge-university-press/</link>
+      <link>https://susanstrange.github.io/categories/publisher-cambridge-university-press/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/publisher-cambridge-university-press/</guid>
+      <guid>https://susanstrange.github.io/categories/publisher-cambridge-university-press/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher: Routledge</title>
-      <link>https://doks-child-theme.netlify.app/categories/publisher-routledge/</link>
+      <link>https://susanstrange.github.io/categories/publisher-routledge/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/publisher-routledge/</guid>
+      <guid>https://susanstrange.github.io/categories/publisher-routledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher:Sage Publications</title>
-      <link>https://doks-child-theme.netlify.app/categories/publishersage-publications/</link>
+      <link>https://susanstrange.github.io/categories/publishersage-publications/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/publishersage-publications/</guid>
+      <guid>https://susanstrange.github.io/categories/publishersage-publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher:Springer International</title>
-      <link>https://doks-child-theme.netlify.app/categories/publisherspringer-international/</link>
+      <link>https://susanstrange.github.io/categories/publisherspringer-international/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/categories/publisherspringer-international/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal Article</title>
-      <link>https://doks-child-theme.netlify.app/categories/journal-article/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      
-      <guid>https://doks-child-theme.netlify.app/categories/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal: Journal of Natural Resources</title>
-      <link>https://doks-child-theme.netlify.app/categories/journal-journal-of-natural-resources/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      
-      <guid>https://doks-child-theme.netlify.app/categories/journal-journal-of-natural-resources/</guid>
+      <guid>https://susanstrange.github.io/categories/publisherspringer-international/</guid>
       <description></description>
     </item>
     

@@ -1,47 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Susan Strange Archive on </title>
-    <link>https://doks-child-theme.netlify.app/</link>
-    <description>Recent content in Susan Strange Archive on </description>
+    <title>Welcome to the Susan Strange Web Archive on </title>
+    <link>https://susanstrange.github.io/</link>
+    <description>Recent content in Welcome to the Susan Strange Web Archive on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2022-2023 Jordon Dumenil</copyright>
     <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
     
-        <atom:link href="https://doks-child-theme.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://susanstrange.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Us</title>
-      <link>https://doks-child-theme.netlify.app/about-us/</link>
+      <title>About The Archive</title>
+      <link>https://susanstrange.github.io/about-the-archive/</link>
       <pubDate>Tue, 06 Oct 2020 08:50:29 +0000</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/about-us/</guid>
-      <description>Details about the team go here
-Content on this page is updated from content&amp;gt;en&amp;gt;about-us&amp;gt;_index.html
-The last line in the _index.html file will be seperated from the rest of the text by a line</description>
+      <guid>https://susanstrange.github.io/about-the-archive/</guid>
+      <description>Details about the archive go here
+Content on this page is updated from content&amp;gt;en&amp;gt;about-the-archive&amp;gt;_index.html
+The last line in the _index.html file will be seperated from the rest of the text by a line
+.</description>
     </item>
     
     <item>
       <title>Susan Strange Archive</title>
-      <link>https://doks-child-theme.netlify.app/archive/</link>
+      <link>https://susanstrange.github.io/archive/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/archive/</guid>
+      <guid>https://susanstrange.github.io/archive/</guid>
       <description>This page is where cards are built for each object in the archive. Text like this and top-of-page content can be edited at content&amp;gt;en&amp;gt;archive&amp;gt;_index.html
 New objects are added by creating a new folder in content&amp;gt;en&amp;gt;archive and adding in an index.html file based on the template (refer to existing pages for template)
 The image displayed on each card is drawn from the assets&amp;gt;images folder and is designated in the &amp;ldquo;Image: []&amp;rdquo; parameter in the index.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://doks-child-theme.netlify.app/contact/</link>
+      <title>About Susan Strange</title>
+      <link>https://susanstrange.github.io/about-strange/</link>
       <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
       
-      <guid>https://doks-child-theme.netlify.app/contact/</guid>
+      <guid>https://susanstrange.github.io/about-strange/</guid>
+      <description>This is the bio page
+This page is updated from content&amp;gt;en&amp;gt;about-strange&amp;gt;index.html</description>
+    </item>
+    
+    <item>
+      <title>Conference and Podcast</title>
+      <link>https://susanstrange.github.io/conference-podcast/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://susanstrange.github.io/conference-podcast/</guid>
+      <description>This is a page for conference and podcast details!</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://susanstrange.github.io/contact-us/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://susanstrange.github.io/contact-us/</guid>
       <description>This where contact details go
-This page is updated from content&amp;gt;en&amp;gt;contact&amp;gt;index.html</description>
+This page is updated from content&amp;gt;en&amp;gt;contact-us&amp;gt;index.html</description>
+    </item>
+    
+    <item>
+      <title>Essay 1</title>
+      <link>https://susanstrange.github.io/essay1/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://susanstrange.github.io/essay1/</guid>
+      <description>This is a page for an essay!</description>
+    </item>
+    
+    <item>
+      <title>Essays</title>
+      <link>https://susanstrange.github.io/essays/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>https://susanstrange.github.io/essays/</guid>
+      <description>This where links to the essays go
+This page is updated from content&amp;gt;en&amp;gt;essays&amp;gt;index.html</description>
     </item>
     
   </channel>
