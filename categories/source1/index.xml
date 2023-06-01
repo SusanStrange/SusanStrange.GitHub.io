@@ -13,8 +13,13 @@
       
       <guid>https://susanstrange.github.io/archive/00-demo/</guid>
       <description>This is the text that fills the static page for this object.
-You can put anything you want here using HTML code including links 
-As well as images</description>
+You can put anything you want here in plaintext.
+If you want to add special elemets like links or images you can use either markdown code:
+This is a link
+or HTML code
+This is also a link
+Images can be done similarly using markdown:
+Or HTML code:</description>
     </item>
     
   </channel>

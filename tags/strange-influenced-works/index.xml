@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strange-Influenced Works on </title>
+    <link>https://susanstrange.github.io/tags/strange-influenced-works/</link>
+    <description>Recent content in Strange-Influenced Works on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Oct 2020 08:50:45 +0000</lastBuildDate><atom:link href="https://susanstrange.github.io/tags/strange-influenced-works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo/Template object</title>
+      <link>https://susanstrange.github.io/archive/00-demo/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/archive/00-demo/</guid>
+      <description>This is the text that fills the static page for this object.
+You can put anything you want here in plaintext.
+If you want to add special elemets like links or images you can use either markdown code:
+This is a link
+or HTML code
+This is also a link
+Images can be done similarly using markdown:
+Or HTML code:</description>
+    </item>
+    
+  </channel>
+</rss>
