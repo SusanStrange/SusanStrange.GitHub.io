@@ -941,13 +941,6 @@
   </url>
   
   <url>
-    <loc>https://susanstrange.github.io/archive/the_poverty_of_multilateral/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://susanstrange.github.io/archive/the_power_gap/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1146,6 +1139,13 @@
   <url>
     <loc>https://susanstrange.github.io/archive/world_order/</loc>
     <lastmod>2020-11-04T09:19:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/archive/the_poverty_of_multilateral/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1356,6 +1356,41 @@
   <url>
     <loc>https://susanstrange.github.io/tags/1990s/</loc>
     <lastmod>2020-10-06T08:50:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/contributors/editor-anthony-jennings/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/contributors/editor-geoff-berridge/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/tags/structural-power-power/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/tags/susan-strange/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.github.io/tags/theory/</loc>
+    <lastmod>1969-12-31T19:33:05-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
