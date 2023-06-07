@@ -45,9 +45,27 @@
     <item>
       <title>Journal Article</title>
       <link>https://susanstrange.github.io/categories/journal-article/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:46 -0500</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:32:56 -0500</pubDate>
       
       <guid>https://susanstrange.github.io/categories/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Report</title>
+      <link>https://susanstrange.github.io/categories/conference-report/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:54 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/categories/conference-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>https://susanstrange.github.io/categories/book/</link>
+      <pubDate>Wed, 31 Dec 1969 19:32:51 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/categories/book/</guid>
       <description></description>
     </item>
     
