@@ -135,7 +135,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/comment_on_international_monetary_system/</loc>
+      <loc>https://susanstrange.github.io/archive/comment_on_david_t_llewellyn/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -143,6 +143,13 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/conclusion_looking_back_looking_forward/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/conclusion_paths_to_international_political_economy/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -359,6 +366,20 @@
     </url>
     
     <url>
+      <loc>https://susanstrange.github.io/archive/international_political_economy_beyond_economies_and_international_relations/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/international_political_economy_reuniting_three_fields_of_intellectual_endeavour/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://susanstrange.github.io/archive/international_trade/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -387,13 +408,6 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/introduction/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>https://susanstrange.github.io/archive/introduction_looking_beyond_the_confines/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -402,20 +416,6 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/introduction_to_the_special_issue_rise/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>https://susanstrange.github.io/archive/ipe_beyond_economies_and_international_relations/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>https://susanstrange.github.io/archive/ipe_reuiniting_three_fields_of_intellectual_endeavour/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -457,7 +457,21 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/paths_to_ipe/</loc>
+      <loc>https://susanstrange.github.io/archive/on_money_and_world_politics/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/palestine_and_the_un/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/paths_to_international_political_economy/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -486,6 +500,20 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/precarious_ownership_of_the_internet_of_things_in_the_age_of_data/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/protectionism_why_not/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/reaganomics_the_third_world_and_the_future/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -535,13 +563,6 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/reflections_blurring_the_boundaries_and_shaping_the_agenda/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>https://susanstrange.github.io/archive/reganomics_the_third_world_and_the_future/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -604,7 +625,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/states_and_markets_1994/</loc>
+      <loc>https://susanstrange.github.io/archive/states_and_markets_2nd_ed/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -618,6 +639,13 @@
     </url>
     
     <url>
+      <loc>https://susanstrange.github.io/archive/still_an_extraordinary_power_after_all_these_years/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://susanstrange.github.io/archive/still_an_extraordinary_power_but_for_how_much_longer/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -625,7 +653,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/still_and_extraordinary_power_after_all_these_years/</loc>
+      <loc>https://susanstrange.github.io/archive/strains_on_nato/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -633,13 +661,6 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/strange_bedfellows_bankers_businessmen_and_bureaucrats_in_global_financial_governance/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>https://susanstrange.github.io/archive/strange_fruit_susan_stranges_theory_of_structural_power_in_the_international_political_economy/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -681,6 +702,13 @@
     </url>
     
     <url>
+      <loc>https://susanstrange.github.io/archive/suez_and_after/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://susanstrange.github.io/archive/supranationals_and_the_state/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -689,13 +717,6 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/surveillance_in_the_name_of_governance_aadhaar_as_a_fix_for_leaking_systems_in_india/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>https://susanstrange.github.io/archive/susan_strange_1923-1998_a_great_international_relations_theorist/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -737,13 +758,6 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/take_six_eggs_theory_finance_and_the_real_economy_in_the_work_of_susan_strange/</loc>
-      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>https://susanstrange.github.io/archive/taking_knowledge_seriously_towards_an_international_political_economy_theory_of_knowledge_governance/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -752,6 +766,13 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/territory_state_authority_and_economy/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/the_atlantic_idea/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -773,6 +794,13 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/the_closing_of_the_net/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/the_commonwealth_and_the_sterling_area/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -801,6 +829,13 @@
     
     <url>
       <loc>https://susanstrange.github.io/archive/the_dynamics_of_paralysis_japan_in_the_global_era/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/the_economic_work_of_the_united_nations/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -856,6 +891,13 @@
     </url>
     
     <url>
+      <loc>https://susanstrange.github.io/archive/the_global_political_economy_1959-1984/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://susanstrange.github.io/archive/the_limits_of_politics/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -877,7 +919,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_persistence_of_problems/</loc>
+      <loc>https://susanstrange.github.io/archive/the_persistence_of_problems_in_ec-us_relations_conflicts_of_perception/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -905,7 +947,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_power_gap/</loc>
+      <loc>https://susanstrange.github.io/archive/the_power_gap_member_states_and_the_world_economy/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -926,21 +968,35 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_retreat_of_the_state/</loc>
+      <loc>https://susanstrange.github.io/archive/the_retreat_of_the_state_question_mark/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_retreat_of_the_state_diffusion/</loc>
+      <loc>https://susanstrange.github.io/archive/the_retreat_of_the_state_state_diffusion_of_power_in_the_world_economy/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_structure_of_finance/</loc>
+      <loc>https://susanstrange.github.io/archive/the_schumann_plan/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/the_strategic_trade_embargoes_sense_or_nonsense/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/the_structure_of__finance_in_the_world_system/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1017,7 +1073,14 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/wake_up_krasner/</loc>
+      <loc>https://susanstrange.github.io/archive/trumans_point_four/</loc>
+      <lastmod>1969-12-31T19:33:43-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/wake_up_krasner_the_world_has_changed/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1031,7 +1094,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/what_theory/</loc>
+      <loc>https://susanstrange.github.io/archive/what_theory_the_theory_in_mad_money/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1045,7 +1108,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/who_governs_networks/</loc>
+      <loc>https://susanstrange.github.io/archive/who_governs_networks_of_power_in_world_society/</loc>
       <lastmod>1969-12-31T19:33:43-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1059,8 +1122,36 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/world_order/</loc>
+      <loc>https://susanstrange.github.io/archive/introduction/</loc>
+      <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/world_order_non-state_actors_and_the_global_casino_the_retreat_of_the_state/</loc>
       <lastmod>2020-11-04T09:19:42+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/susan_strange_1923-1998_a_great_international_relations_theorist/</loc>
+      <lastmod>1969-12-31T19:33:19-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/strange_fruit_susan_stranges_theory_of_structural_power_in_the_international_political_economy/</loc>
+      <lastmod>1969-12-31T19:33:16-05:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://susanstrange.github.io/archive/take_six_eggs_theory_finance_and_the_real_economy_in_the_work_of_susan_strange/</loc>
+      <lastmod>1969-12-31T19:33:12-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
@@ -1087,7 +1178,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_poverty_of_multilateral/</loc>
+      <loc>https://susanstrange.github.io/archive/the_poverty_of_multilateral_economic_diplomacy/</loc>
       <lastmod>1969-12-31T19:33:05-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1122,7 +1213,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_credit_crisis/</loc>
+      <loc>https://susanstrange.github.io/archive/the_credit_crisis_a_european_view/</loc>
       <lastmod>1969-12-31T19:33:03-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1171,14 +1262,14 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_politics_of_international_surplus_capacity/</loc>
+      <loc>https://susanstrange.github.io/archive/the_international_politics_of_surplus_capacity_competition_for_market_shares_in_the_world_/</loc>
       <lastmod>1969-12-31T19:33:01-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_worlds_money/</loc>
+      <loc>https://susanstrange.github.io/archive/the_worlds_money_expanding_the_agenda_for_research/</loc>
       <lastmod>1969-12-31T19:33:01-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1199,7 +1290,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_management_of_surplus_productive_capacity/</loc>
+      <loc>https://susanstrange.github.io/archive/the_management_of_surplus_capacity_or_how_does_theory_stand_up_to_protectionism_1970s_style/</loc>
       <lastmod>1969-12-31T19:32:59-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1234,7 +1325,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/review-of-o.-keohane-and-joeseph-s-1977-power-and-independence/</loc>
+      <loc>https://susanstrange.github.io/archive/review_of_keohane_and_nye_power_and_interdependence/</loc>
       <lastmod>1969-12-31T19:32:56-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1262,7 +1353,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/what_is_economic_power/</loc>
+      <loc>https://susanstrange.github.io/archive/what_is_economic_power_and_who_has_it/</loc>
       <lastmod>1969-12-31T19:32:55-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1311,14 +1402,14 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_multinational_corporation/</loc>
+      <loc>https://susanstrange.github.io/archive/the_multinational_corporation_and_the_national_interest/</loc>
       <lastmod>1969-12-31T19:32:52-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/sterling_and_british_policy/</loc>
+      <loc>https://susanstrange.github.io/archive/sterling_and_british_policy_a_political_study_of_an_international_currency_in_decline/</loc>
       <lastmod>1969-12-31T19:32:51-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1332,14 +1423,14 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/the_united_nations/</loc>
+      <loc>https://susanstrange.github.io/archive/the_united_nations_and_international_economic_relations/</loc>
       <lastmod>1969-12-31T19:32:51-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/international_economics/</loc>
+      <loc>https://susanstrange.github.io/archive/international_economics_and_international_relations_a_case_of_mutual_neglect/</loc>
       <lastmod>1969-12-31T19:32:50-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -1416,7 +1507,7 @@
     </url>
     
     <url>
-      <loc>https://susanstrange.github.io/archive/point_four/</loc>
+      <loc>https://susanstrange.github.io/archive/point_four_helping_develop_half_a_world/</loc>
       <lastmod>1969-12-31T19:32:30-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
