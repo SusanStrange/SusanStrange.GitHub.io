@@ -52,9 +52,18 @@
     </item>
     
     <item>
+      <title>Journal</title>
+      <link>https://susanstrange.github.io/categories/journal/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Book</title>
       <link>https://susanstrange.github.io/categories/book/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:22 -0500</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:33:36 -0500</pubDate>
       
       <guid>https://susanstrange.github.io/categories/book/</guid>
       <description></description>
@@ -84,15 +93,6 @@
       <pubDate>Wed, 31 Dec 1969 19:32:48 -0500</pubDate>
       
       <guid>https://susanstrange.github.io/categories/report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book Chpater</title>
-      <link>https://susanstrange.github.io/categories/book-chpater/</link>
-      <pubDate>Wed, 31 Dec 1969 19:32:42 -0500</pubDate>
-      
-      <guid>https://susanstrange.github.io/categories/book-chpater/</guid>
       <description></description>
     </item>
     
