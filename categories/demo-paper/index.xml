@@ -8,10 +8,10 @@
     <lastBuildDate>Wed, 31 Dec 1969 19:33:43 -0500</lastBuildDate><atom:link href="https://susanstrange.github.io/categories/demo-paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo/Template object</title>
-      <link>https://susanstrange.github.io/archive/00-demo/</link>
+      <link>https://susanstrange.github.io/00-demo/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
       
-      <guid>https://susanstrange.github.io/archive/00-demo/</guid>
+      <guid>https://susanstrange.github.io/00-demo/</guid>
       <description>This is the text that fills the static page for this object.
 You can put anything you want here in plaintext.
 If you want to add special elemets like links or images you can use either markdown code:
