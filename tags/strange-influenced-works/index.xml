@@ -7,22 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 06 Oct 2020 08:50:45 +0000</lastBuildDate><atom:link href="https://susanstrange.github.io/tags/strange-influenced-works/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo/Template object</title>
-      <link>https://susanstrange.github.io/00-demo/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      
-      <guid>https://susanstrange.github.io/00-demo/</guid>
-      <description>This is the text that fills the static page for this object.
-You can put anything you want here in plaintext.
-If you want to add special elemets like links or images you can use either markdown code:
-This is a link
-or HTML code
-This is also a link
-Images can be done similarly using markdown:
-Or HTML code:</description>
-    </item>
-    
-    <item>
       <title>&#39;Susan Strange saw the financial crisis coming, Your Majesty&#39;: The Case for the LSE&#39;s Great Global Political Economist</title>
       <link>https://susanstrange.github.io/archive/susan_strange_saw_the_financial_crisis_coming_your_majesty_the_case_for_the_lses_great_global_political_economist/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:41 -0500</pubDate>
@@ -112,6 +96,16 @@ According to many observers, economic globalisation and the liberalisation of te
       <guid>https://susanstrange.github.io/archive/power_and_counter-power_knowledge_structure_and_the_limits_of_control/</guid>
       <description>David, Matthew, Cynthia Meersohn Schmidt &amp;ldquo;Power and Counter-Power: Knowledge Structure and the Limits of Control.&amp;rdquo; Sociological Research Online 24, no. 1 (2019): 21-37.
 In this article, we explore Susan Strange&amp;rsquo;s multidimensional and non-reductive international political economy (IPE) approach to structural power. Strange&amp;rsquo;s key weakness is the failure to account for her knowledge structure&amp;rsquo;s regulative form relative to her security, production and financial structures. We seek to develop Strange&amp;rsquo;s account through the addition of Manuel Castells&#39; account of digital network structures.</description>
+    </item>
+    
+    <item>
+      <title>Precarious Ownership of the Internet of Things in the Age of Data</title>
+      <link>https://susanstrange.github.io/archive/precarious_ownership_of_the_internet_of_things_in_the_age_of_data/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
+      
+      <guid>https://susanstrange.github.io/archive/precarious_ownership_of_the_internet_of_things_in_the_age_of_data/</guid>
+      <description>Tusikov, Natasha. &amp;ldquo;Precarious Ownership of the Internet of Things in the Age of Data.&amp;rdquo; In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century, edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov, 121-148. Cham: Palgrave Macmillan, 2019.
+The growth of the Internet of Things (IoT)—internet-connected software embedded within physical products—has the potential to shift fundamentally traditional conceptions of ownership and the ways people can access, use, and control information.</description>
     </item>
     
   </channel>
