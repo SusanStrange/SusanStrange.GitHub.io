@@ -3,29 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://susanstrange.org/archive/the_new_knowledge/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://susanstrange.org/archive/susan_strange_saw_the_financial_crisis_coming_your_majesty_the_case_for_the_lses_great_global_political_economist/</loc>
     <lastmod>1969-12-31T19:33:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/archive/women_thinkers_and_the_canon_of_international_thought/</loc>
-    <lastmod>1969-12-31T19:33:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/archive/women_thinkers_of_the_world_economy/</loc>
-    <lastmod>1969-12-31T19:33:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -129,13 +108,6 @@
   </url>
   
   <url>
-    <loc>https://susanstrange.org/archive/sex_gender_and_the_canon/</loc>
-    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://susanstrange.org/archive/strucutural-power_and_international_regimes/</loc>
     <lastmod>1969-12-31T19:33:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,13 +137,6 @@
   
   <url>
     <loc>https://susanstrange.org/archive/developing_disaster_power_structural_violence_insurance-linked_securities_and_the_international_political_economy_of_the_disaster_politics_nexus/</loc>
-    <lastmod>1969-12-31T19:33:38-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/archive/susan_strange_world_renowned_international_relations_scholar/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -648,13 +613,6 @@
   
   <url>
     <loc>https://susanstrange.org/archive/the_new_world_of_debt/</loc>
-    <lastmod>1969-12-31T19:33:18-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/archive/what_happened_to_womens_international_thought/</loc>
     <lastmod>1969-12-31T19:33:18-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1627,63 +1585,14 @@
   </url>
   
   <url>
-    <loc>https://susanstrange.org/contributors/blayne-haggart/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/categories/book/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://susanstrange.org/categories/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/tags/knowledge/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/contributors/natasha-tusikov/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/tags/structural-power-power/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/tags/theory/</loc>
-    <lastmod>1969-12-31T19:33:43-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/categories/journal-article/</loc>
     <lastmod>1969-12-31T19:33:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://susanstrange.org/contributors/kimberley-hutchings/</loc>
+    <loc>https://susanstrange.org/categories/journal-article/</loc>
     <lastmod>1969-12-31T19:33:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1699,27 +1608,6 @@
   <url>
     <loc>https://susanstrange.org/contributors/nat-dyer/</loc>
     <lastmod>1969-12-31T19:33:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/tags/other/</loc>
-    <lastmod>1969-12-31T19:33:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/contributors/patricia-owens/</loc>
-    <lastmod>1969-12-31T19:33:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://susanstrange.org/categories/blog-post/</loc>
-    <lastmod>1969-12-31T19:33:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1747,6 +1635,13 @@
   
   <url>
     <loc>https://susanstrange.org/tags/authority/</loc>
+    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/contributors/blayne-haggart/</loc>
     <lastmod>1969-12-31T19:33:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1858,6 +1753,13 @@
   </url>
   
   <url>
+    <loc>https://susanstrange.org/tags/knowledge/</loc>
+    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://susanstrange.org/contributors/madeline-carr/</loc>
     <lastmod>1969-12-31T19:33:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1880,6 +1782,13 @@
   
   <url>
     <loc>https://susanstrange.org/contributors/matthew-david/</loc>
+    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/contributors/natasha-tusikov/</loc>
     <lastmod>1969-12-31T19:33:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1922,6 +1831,20 @@
   
   <url>
     <loc>https://susanstrange.org/tags/strange-influenced-work/</loc>
+    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/tags/structural-power-power/</loc>
+    <lastmod>1969-12-31T19:33:39-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/tags/theory/</loc>
     <lastmod>1969-12-31T19:33:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1971,6 +1894,13 @@
   
   <url>
     <loc>https://susanstrange.org/contributors/benjamin-j.-cohen/</loc>
+    <lastmod>1969-12-31T19:33:36-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/categories/book/</loc>
     <lastmod>1969-12-31T19:33:36-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2195,6 +2125,13 @@
   
   <url>
     <loc>https://susanstrange.org/contributors/lorraine-eden/</loc>
+    <lastmod>1969-12-31T19:33:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://susanstrange.org/tags/other/</loc>
     <lastmod>1969-12-31T19:33:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
