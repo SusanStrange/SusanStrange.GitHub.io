@@ -5,13 +5,31 @@
     <link>https://susanstrange.org/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Dec 1969 19:33:41 -0500</lastBuildDate><atom:link href="https://susanstrange.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:43 -0500</lastBuildDate><atom:link href="https://susanstrange.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://susanstrange.org/categories/book/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      
+      <guid>https://susanstrange.org/categories/book/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Journal Article</title>
       <link>https://susanstrange.org/categories/journal-article/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:41 -0500</pubDate>
       
       <guid>https://susanstrange.org/categories/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Post</title>
+      <link>https://susanstrange.org/categories/blog-post/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:40 -0500</pubDate>
+      
+      <guid>https://susanstrange.org/categories/blog-post/</guid>
       <description></description>
     </item>
     
@@ -39,15 +57,6 @@
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
       
       <guid>https://susanstrange.org/categories/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book</title>
-      <link>https://susanstrange.org/categories/book/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:36 -0500</pubDate>
-      
-      <guid>https://susanstrange.org/categories/book/</guid>
       <description></description>
     </item>
     
